@@ -1,12 +1,12 @@
 # Tweety
 
-A social websit application that looks like twitter
+A social website application that looks like twitter
 
 - You can tweet as many tweets as you wish
-- You can follow & unfolow people you like
+- You can follow & unfollow people you like
 - There is a prfile page with your tweets and profile picture
 - There is a Like & Dislike System
-- A complete regesteration system
+- A complete regestration system
 - I used Postegres & Tableplus
 
 ## Home Page
